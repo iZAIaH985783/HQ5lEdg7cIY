@@ -28,7 +28,6 @@
 .bazelversion
 user.bazelrc
 
-/t/
 /spec/
 /spec-ee/
 /servroot/
